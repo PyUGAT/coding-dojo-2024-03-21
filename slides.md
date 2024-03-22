@@ -75,6 +75,12 @@ then move forward one unit.
 
 ---
 
+## 10" Discussion
+
+![bg contain](./discussion.jpeg)
+
+---
+
 ## Retrospective 💬
 
 - What did you like?

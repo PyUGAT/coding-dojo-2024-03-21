@@ -14,6 +14,10 @@ rules below:
 * At a black square, turn 90° counter-clockwise, flip the color of the square,
   move forward one unit
 
+## Initial Discussion
+
+![Initial discussion.](./discussion.jpeg)
+
 ## Run test
 
 ```console
